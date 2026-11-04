@@ -4,19 +4,27 @@
 
 Ahoj! Jsem Jirka - a všichni mi říkají Vítku. 😄
 
-Zajímá mě digitální odolnost - a to z obou stran. Na SŠVOŠIF Brno studuju kybernetickou bezpečnost; nejblíž mám k zabezpečení sítí a infrastruktury a k ochraně dat a prevenci jejich úniku. Zároveň se starám o pokročilou IT správu. V CTRL Europe, neziskovce, která buduje digitální odolnost pro novou evropskou generaci, vedu sociální sítě a videotvorbu. Ve volném čase opravuju elektroniku, 3D tisknu a stavím vlastní hardwarové i softwarové projekty.
+Zajímá mě digitální odolnost - a to z obou stran. Pracuju jako specialista IT a kybernetické bezpečnosti: navrhuju a stavím počítačové sítě, nasazuju firewally a segmentaci a držím v chodu infrastrukturu klientů. Zároveň studuju kybernetickou bezpečnost na SŠVOŠIF Brno. V CTRL Europe, neziskovce, která buduje digitální odolnost pro novou evropskou generaci, vedu sociální sítě. Ve volném čase 3D tisknu a stavím vlastní hardwarové i softwarové projekty.
 
 ---
 
 ### 💼 Aktuálně
 
-**Social media manager & videotvorba** - [CTRL Europe](https://ctrleurope.com), od 2026<br>
-Člen neziskovky budující digitální odolnost pro novou evropskou generaci. Mám na starosti sociální sítě, střih videa v DaVinci Resolve a kameru.<br>
-→ Moje práce: [@ctrleurope.cz](https://www.instagram.com/ctrleurope.cz)
+**Specialista IT a kybernetické bezpečnosti** - IKT Brno, 2024 - nyní
+
+- **Počítačové sítě** - návrh a realizace: kabeláž, hardware i software.
+- **Kybernetická bezpečnost** - návrh a implementace: firewally, segmentace, zálohování, správa přístupů.
+- **Provoz IT** - správa infrastruktury, aktualizace, řešení incidentů, podpora klientů.
+
+**Social media manager** - [CTRL Europe](https://ctrleurope.com), od 2026<br>
+Člen neziskovky budující digitální odolnost pro novou evropskou generaci. Mám na starosti sociální sítě a kameru.<br>
+
+**Opravy hardwaru** - koníček, 2023 - nyní<br>
+Telefony, tablety a notebooky. Diagnostika i samotná oprava.
 
 ---
 
-### 🔨 Na čem pracuju
+### 🔨 Na čem jsem pracoval
 
 <img align="right" width="340" src="budiq.jpg" alt="Chytrý budIQ - 3D tištěný budík s LED displejem">
 
@@ -34,26 +42,40 @@ Projekt vznikl pro soutěž na jaře 2025 s týmem ze ZŠ Židlochovice, kde jse
 
 ### 🧰 Nástroje & dovednosti
 
-**Správa a vývoj**
+**Správa a infrastruktura**
 
 <p>
+<img src="https://img.shields.io/badge/Windows_Server-0F161E?style=flat-square" />
+<img src="https://img.shields.io/badge/Active_Directory-0F161E?style=flat-square" />
+<img src="https://img.shields.io/badge/Microsoft_365-0F161E?style=flat-square" />
 <img src="https://img.shields.io/badge/Windows-pokročilá_správa-0F161E?style=flat-square&labelColor=1B2430" />
 <img src="https://img.shields.io/badge/macOS-pokročilá_správa-0F161E?style=flat-square&labelColor=1B2430" />
 <img src="https://img.shields.io/badge/Linux-základy-0F161E?style=flat-square&labelColor=1B2430" />
-<img src="https://img.shields.io/badge/C-základy-0F161E?style=flat-square&labelColor=1B2430" />
 </p>
 
-**Hardware**
+**Virtualizace, sítě & bezpečnost**
 
 <p>
+<img src="https://img.shields.io/badge/Virtualizace-0F161E?style=flat-square" />
+<img src="https://img.shields.io/badge/Firewally-0F161E?style=flat-square" />
+<img src="https://img.shields.io/badge/Síťová_bezpečnost-0F161E?style=flat-square" />
+</p>
+
+**Hardware, servis & podpora**
+
+<p>
+<img src="https://img.shields.io/badge/Servis_PC_a_notebooků-0F161E?style=flat-square" />
+<img src="https://img.shields.io/badge/Tiskárny-0F161E?style=flat-square" />
+<img src="https://img.shields.io/badge/Mobily_a_tablety-0F161E?style=flat-square" />
+<img src="https://img.shields.io/badge/Podpora_uživatelů-0F161E?style=flat-square" />
 <img src="https://img.shields.io/badge/ESP32-0F161E?style=flat-square" />
 <img src="https://img.shields.io/badge/3D_tisk-0F161E?style=flat-square" />
-<img src="https://img.shields.io/badge/Opravy_elektroniky-0F161E?style=flat-square" />
 </p>
 
-**Web & media**
+**Vývoj, web & media**
 
 <p>
+<img src="https://img.shields.io/badge/C-základy-0F161E?style=flat-square&labelColor=1B2430" />
 <img src="https://img.shields.io/badge/WordPress-0F161E?style=flat-square" />
 <img src="https://img.shields.io/badge/DaVinci_Resolve-0F161E?style=flat-square" />
 <img src="https://img.shields.io/badge/Canva-0F161E?style=flat-square" />
@@ -62,7 +84,7 @@ Projekt vznikl pro soutěž na jaře 2025 s týmem ze ZŠ Židlochovice, kde jse
 
 ---
 
-### 🎓 Certifikáty
+### 🎓 Aktuální certifikáty
 
 **IT Master Test 2026 - pro pokročilé** · 91,67 % (11 z 12 úloh)<br>
 Pokročilá verze testu digitálních dovedností s komplexními a algoritmickými úlohami, přístupná jen po zvládnutí základní varianty. Organizuje Asociace pro aplikovaný výzkum v IT pod záštitou MŠMT.
